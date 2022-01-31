@@ -1,5 +1,5 @@
-<h1> "Artistic, Aesthetic, Elegant"</h1>
-<h6>My Development Philosophy</h6>
+<h1> "Rerum Cognoscere Causas"</h1>
+<h6>To know the cause of things</h6>
 <p></p> 
 <h5> Student living in Seoul, South Korea. Also working as a programmer </h5>
 <h3>Working On💻</h3>
