@@ -15,4 +15,9 @@
 <h6>2D game, if you hit the cherry n times, it pops</h6>
 <br>
 <h3>Launched Apps🚀</h3>
-<h5
+<br>
+<h3>Websites🌐</h3>
+<h4>Language Arts HW</h4>
+<h6>Link: https://rsaelinera.github.io/LanguageArtsHW/</h6>
+<h4>RS's Portfolio</h4>
+<h6>Link: https://rsaelinera.github.io/RS-s-portfolio/</h6>
