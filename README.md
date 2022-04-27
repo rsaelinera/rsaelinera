@@ -10,7 +10,7 @@
 <h6>Indian 3D maze game</h5>
 <h4>RS's Portfolio</h4>
 <h6>Portfolio about my carrer, and future plans(Web)</h6>
-<h6>Link: https://rsaelinera.github.io/RS-s-portfolio/</h6>
+<h6>Link:  </h6>
 <h4>Cherry<h4>
 <h6>2D game, if you hit the cherry n times, it pops</h6>
 <h4>3-10 time table</h4>
@@ -22,7 +22,7 @@
 <h4>Language Arts HW</h4>
 <h6>Link: https://rsaelinera.github.io/LanguageArtsHW/</h6>
 <h4>RS's Portfolio</h4>
-<h6>Link: https://rsaelinera.github.io/RS-s-portfolio/</h6>
+<h6>Link:  </h6>
 <h4>3-10 time table</h4>
 <h6>Link: https://rsaelinera.github.io/310timetable/index.html</h6>
   
