@@ -23,3 +23,6 @@
 <h6>Link: https://rsaelinera.github.io/LanguageArtsHW/</h6>
 <h4>RS's Portfolio</h4>
 <h6>Link: https://rsaelinera.github.io/RS-s-portfolio/</h6>
+<h4>3-10 time table</h4>
+<h6>Link: https://rsaelinera.github.io/310timetable/index.html</h6>
+  
