@@ -13,6 +13,8 @@
 <h6>Link: https://rsaelinera.github.io/RS-s-portfolio/</h6>
 <h4>Cherry<h4>
 <h6>2D game, if you hit the cherry n times, it pops</h6>
+<h4>3-10 time table</h4>
+<h6>Time table of our class!</h6>
 <br>
 <h3>Launched Apps🚀</h3>
 <br>
